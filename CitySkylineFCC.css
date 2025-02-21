@@ -53,6 +53,7 @@
     background: linear-gradient(
       var(--building-color1) 50%,
       var(--window-color1)
+        );
   }
   
   .bb1-window {
